@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome to my profile </h1>
 <p>I'm Valentin Valete_ PERIER, a 19 year-old French developer and sysadmin. I like games, scuba diving and FPV drones. I don't code a lot, I prefer working as a sysadmin.</p>
-<p>I'am currently studying at <a href="https://www.utec77.fr/avon-fontainebleau">UTEC Avon-Fontainebleau</a> to get my BTS SIO SISR while working at <a href="https://www.intrapole.fr/">Intrapole</a>.</p>
-<p>Proud <a href="https://imgur.com/a/qTbLJwM">HomeLab</a> owner and high energy bill.</p>
+<p>I'am currently studying at <a href="https://www.utec77.fr/avon-fontainebleau">UTEC Avon-Fontainebleau</a> to get a BTS SIO SISR while working at <a href="https://www.intrapole.fr/">Intrapole</a>.</p>
+<p>Proud <a href="https://imgur.com/a/qTbLJwM">HomeLab</a> owner and high energy bill enjoyer.</p>
 <div align="center">
   <h2>✉️ Contact</h2>
   <a href="https://valete.fr">Valete.fr</a> | 
@@ -10,7 +10,6 @@
 </div>
 <div align="center">
   <h2>⚙️ Tech Stack</h2>
-  <h3>Language</h3>
   <div>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
